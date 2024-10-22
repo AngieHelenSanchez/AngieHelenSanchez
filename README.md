@@ -6,11 +6,7 @@
 
 ## 👩🏾‍💻 About Me:
 
-- 👩 All about me is at **[My Website]()**
-
-
-- 🌱 I’m currently learning ``
-
+- 👩 
 
 ## 🛠️ Technologies and Tools I use:
 
