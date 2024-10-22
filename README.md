@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"height="60px"> I'm Angie Helen Rodas Sánchez</h1>
+<h1 align="center">Hi!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"height="60px"> I'm Angie Helen Rodas Sánchez</h1>
 
 
 ![BannerGithub](https://github.com/user-attachments/assets/6e04fd8c-7019-4c0d-b265-200e6755c750)
