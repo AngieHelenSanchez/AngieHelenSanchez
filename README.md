@@ -6,13 +6,13 @@
 
 ## 👩🏾‍💻 About Me:
 
-👩🏾‍🎓 Microcomputer Systems and Network Management and Multiplatform Application Development Technician
-🌱 Passionate Learner
-🚀 Currently Enrolled in a Web Development Bootcamp with AWS
-🌍 Languages: Spanish, English
-🤝 Team player & collaborator
-💡 Tech Interests: Cloud Computing, AI
-⚡ Fun fact: I love exploring how tech impacts real-world problems!
+- 👩🏾‍🎓 Microcomputer Systems and Network Management and Multiplatform Application Development Technician
+- 🌱 Passionate Learner
+- 🚀 Currently Enrolled in a Web Development Bootcamp with AWS
+- 🌍 Languages: Spanish, English
+- 🤝 Team player & collaborator
+- 💡 Tech Interests: Cloud Computing, AI
+- ⚡ Fun fact: I love exploring how tech impacts real-world problems!
 
 ## 🛠️ Technologies and Tools I use:
 
