@@ -1,5 +1,7 @@
-![Captura de pantalla 2024-10-18 111506](https://github.com/user-attachments/assets/b5f563f2-12fb-4401-a454-be3921e7c7a1)
----
+
+![BannerGithub](https://github.com/user-attachments/assets/6e04fd8c-7019-4c0d-b265-200e6755c750)
+----
+
 Soy desarrolladora de software de backend. Y actualmente estoy formadome como desarrolladora full-stack. 
 
 <h3 align="left">Languages and Tools:</h3>
